@@ -9,7 +9,7 @@ I'm a fresher passionate about building clean, scalable web applications. Java i
 - **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
 - **Backend:** Node.js, Express.js, Spring Boot, RESTful APIs
 - **Database:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, GitHub, VS Code, Postman
+- **Tools & Platforms:** Git, GitHub, Postman, Vercel, Netlify
 
 ## 🚀 What I'm Doing
 - Building full-stack projects to strengthen my portfolio
