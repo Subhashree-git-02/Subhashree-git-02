@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Subhashree 👋
 
-<!--
-**Subhashree-git-02/Subhashree-git-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MCA Graduate | Java Developer | Full-Stack Developer**
 
-Here are some ideas to get you started:
+I'm a fresher passionate about building clean, scalable web applications. Java is my core language, and I work across the stack with React.js and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Java, JavaScript (ES6+), Python, SQL
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js, Spring Boot, RESTful APIs
+- **Database:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, Postman
+
+## 🚀 What I'm Doing
+- Building full-stack projects to strengthen my portfolio
+- Practicing DSA in Java
+- Exploring Spring Boot and backend development
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/subhashree-s-sahoo
+- Email: subhashreesahoo49021662@gmail.com
+
+⭐ Open to SDE / Full-Stack Developer roles as a fresher.
